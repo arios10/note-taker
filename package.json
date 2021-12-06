@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.59.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "note-taker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arios10/note-taker.git"
+  },
+  "author": "Angel Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arios10/note-taker/issues"
+  },
+  "homepage": "https://github.com/arios10/note-taker#readme"
+}
